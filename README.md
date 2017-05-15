@@ -1,5 +1,7 @@
 pg-assert-schema
 =====================
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/apechimp/node-pg-assert-schema.svg)](https://greenkeeper.io/)
 CLI for asserting the existence of a postgres schema
 
 Installation
